@@ -1,6 +1,6 @@
 # ZlibLibraryC++
 
-This code displays the compression and decompression capabilities of the zlib library
+This code displays the compression and decompression capabilities of the zlib library. _**main.cpp**_ is the file that contains the code, the rest are supporting files from CodeBlocks.
 
 I have used CobeBlocks IDE to run this code. 
 Refer the following links if you need to download and set-up the library:
