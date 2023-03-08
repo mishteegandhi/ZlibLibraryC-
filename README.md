@@ -1,5 +1,7 @@
 # ZlibLibraryC++
 
+This code displays the compression and decompression capabilities of the zlib library
+
 I have used CobeBlocks IDE to run this code. 
 Refer the following links if you need to download and set-up the library:
 1. [Video link](https://youtu.be/VHcNuBk7-sU) to download and install library and set it up in CodeBlocks
