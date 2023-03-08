@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1678275058 source:c:\users\misht\desktop\faser\main.cpp
+	<string>
+	<stdexcept>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<zlib.h>
+
+1121653608 c:\program files (x86)\gnuwin32\include\zlib.h
+	"zconf.h"
+
+1121874026 c:\program files (x86)\gnuwin32\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1678206557 source:c:\users\misht\desktop\faser\untitled1.c
+
+1678287473 source:c:\users\misht\desktop\zlib\main.cpp
+	<string>
+	<stdexcept>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<zlib.h>
+
